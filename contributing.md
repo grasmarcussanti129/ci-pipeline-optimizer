@@ -7,7 +7,7 @@ We welcome contributions from the community! Here are some ways you can help:
 3. **Documentation**: Help us improve our documentation by fixing typos or adding examples.
 
 ## Guidelines
-- Follow the coding conventions and commit message formats.
+- Follow the coding conventions and commit message formats closely to maintain consistency.
 - Make sure your changes are well-tested and documented.
 - Be respectful and inclusive in discussions.
 
