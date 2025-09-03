@@ -12,5 +12,5 @@ async function analyzePipeline(url) {
     }
 }
 
-const pipelineUrl = 'https://example.com/pipeline'; // Replace with actual pipeline URL
+const pipelineUrl = 'https://your-pipeline-url.com'; // Replace with actual pipeline URL
 analyzePipeline(pipelineUrl);
