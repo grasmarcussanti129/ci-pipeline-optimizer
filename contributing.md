@@ -8,7 +8,7 @@ We welcome contributions from the community! Here are some ways you can help:
 
 ## Guidelines
 - Follow the coding conventions and commit message formats closely to maintain consistency.
-- Make sure your changes are well-tested and documented.
+- Make sure your changes are well-tested and include documentation for any new features.
 - Be respectful and inclusive in discussions.
 
 Thank you for helping us improve CI Pipeline Optimizer!
