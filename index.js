@@ -12,5 +12,5 @@ async function analyzePipeline(url) {
     }
 }
 
-const pipelineUrl = 'https://your-pipeline-url.com'; // Replace with actual pipeline URL
+const pipelineUrl = 'https://your-pipeline-url.com'; // TODO: Replace with the actual CI/CD pipeline URL
 analyzePipeline(pipelineUrl);
