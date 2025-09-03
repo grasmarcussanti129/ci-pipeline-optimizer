@@ -10,5 +10,6 @@ We welcome contributions from the community! Here are some ways you can help:
 - Follow the coding conventions and commit message formats closely to maintain consistency.
 - Make sure your changes are well-tested and include documentation for any new features.
 - Be respectful and inclusive in discussions.
+- **Code Reviews**: All pull requests should be reviewed by at least one other contributor before merging.
 
 Thank you for helping us improve CI Pipeline Optimizer!
