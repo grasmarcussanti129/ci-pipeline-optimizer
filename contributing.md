@@ -2,7 +2,7 @@
 
 We welcome contributions from the community! Here are some ways you can help:
 
-1. **Reporting Issues**: If you find a bug or have a feature request, please open an issue.
+1. **Reporting Issues**: If you find a bug or have a feature request, please open an issue. This helps us keep track of enhancements and ensure they are prioritized.
 2. **Pull Requests**: Feel free to submit pull requests. Please ensure your code adheres to the style and includes tests where applicable.
 3. **Documentation**: Help us improve our documentation by fixing typos or adding examples.
 
